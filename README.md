@@ -15,11 +15,11 @@
 - ✅ Hands-on courses in HTML, CSS, JavaScript** across: .FreeCodeCamp · W3Schools
 - ✅ Currently building frontend & backend projects to solve real-world problems  
 
-🛠 Tech & Skills
+## 🛠 Tech & Skills 
 
-HTML CSS JS Bash 
+ **HTML .CSS .JS .Bash**
 
-📚 ROADMAP
+## 📚 ROADMAP
 
 I started with HTML & CSS to build responsive web pages.
 Then I deepened my JavaScript skills for interactive UIs.
@@ -29,27 +29,20 @@ Finally, I’ll polish my portfolio and prepare for the job search ahead.
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
-
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Luxury Gadgets – Responsive Product Landing Page]** is a **[A stylish landing page for Luxury Gadgets featuring a hero section, product highlights, social media links, and WhatsApp order integration.]** built with **[HTML5, CSS, Bootstrap 5, and Font Awesome.]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
   
  📧 Email: jnwachukwu72@gmail.com
   
-🔗 Portfolio: https://sites.google.com/view/janenwachukwu/my-portfolio
+🔗 Portfolio: [Click Here](https://sites.google.com/view/janenwachukwu/my-portfolio)
 
-💼 LinkedIn: https://www.linkedin.com/in/jane-nwachukwu-801292310
+💼 LinkedIn: [Click Here](https://www.linkedin.com/in/jane-nwachukwu-801292310)
 
-   Twitter: @JaneNwachu45001
+   Twitter: [Click Here](@JaneNwachu45001)
 
 
 

@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Jane Nwachukwu! 👋
 
-<!--
-**Jane-del-art/Jane-del-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently enrolled in ALX Back-End Web Development Program
+- 🔍 Passionate and driven by curiosity, I simplify complex challenges through thoughtful design and code.
+- 💡 Driven by innovation, accessibility, and building user-friendly applications.
+- ⚡ Fun fact: I learn faster when I teach someone else what I just learned.
+
+## 🎯 My Learning Journey & Credentials
+- ✅ Awarded Certificate in Responsive Web Design
+- ✅ Completed ALX Professional Foundation Course: Professional Foundation Skills for the Digital Age
+- ✅ Hands-on courses in HTML, CSS, JavaScript** across: .FreeCodeCamp · W3Schools
+- ✅ Currently building frontend & backend projects to solve real-world problems  
+
+🛠 Tech & Skills
+
+HTML CSS JS Bash 
+
+📚 ROADMAP
+
+I started with HTML & CSS to build responsive web pages.
+Then I deepened my JavaScript skills for interactive UIs.
+Now I’m learning React and exploring Node.js, Express, and REST APIs for backend development.
+Next, I’ll be integrating frontend + backend to deploy real full-stack projects.
+Finally, I’ll polish my portfolio and prepare for the job search ahead.
+
+## Featured Projects 💻
+
+### [Project 1 Title](project_1_link)
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### [Project 2 Title](project_2_link)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+## Get in Touch 📬
+  
+ 📧 Email: jnwachukwu72@gmail.com
+  
+🔗 Portfolio: https://sites.google.com/view/janenwachukwu/my-portfolio
+
+💼 LinkedIn: https://www.linkedin.com/in/jane-nwachukwu-801292310
+
+   Twitter: @JaneNwachu45001
+
+
+
+
